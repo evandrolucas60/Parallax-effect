@@ -5,6 +5,8 @@
 
 Projeto Front-end que visa a utilização do efeito parallax.
 
+Rolagem parallax é uma técnica em computação gráfica em que as imagens de plano de fundo movem-se mais lentamente que as imagens em primeiro plano, criando uma ilusão de profundidade em uma cena 2D e aumentando a sensação de imersão na experiência virtual
+
 ## Layout web
 ![Mobile 1](https://github.com/evandrolucas60/readme-assets-repository/blob/main/EfeitoParallaxMoonlight.gif)
 
